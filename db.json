@@ -1,9 +1,11 @@
-[
-    {numericalorder:1,  name: 'Chuyên viên ĐBCL&TTGD', department: 'Các ban-Ban ĐBCL&TTGD', title: 'Chuyên viên' },
-    {
-        numericalorder:2,
-        name: '	Chuyên viên Khảo Thí',
-        department: 'Các ban-Ban Khảo thí',
-        title: 'Chuyên viên'
-    }
-]
+{
+    [
+        {numericalorder:1,  name: 'Chuyên viên ĐBCL&TTGD', department: 'Các ban-Ban ĐBCL&TTGD', title: 'Chuyên viên' },
+        {
+            numericalorder:2,
+            name: '	Chuyên viên Khảo Thí',
+            department: 'Các ban-Ban Khảo thí',
+            title: 'Chuyên viên'
+        }
+    ]
+}
